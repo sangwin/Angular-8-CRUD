@@ -2,7 +2,7 @@
   "name": "angular-v8-crud",
   "version": "1.0.0",
   "description": "Angular 8 CRUD Demo Application By Sangwin Gawande",
-  "author": "Sangwin Gawande (http://sangw.in)",
+  "author": "Sangwin Gawande (https://sangw.in)",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open --port 4201",
